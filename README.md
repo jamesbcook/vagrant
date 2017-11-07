@@ -22,3 +22,7 @@ Vagrant files for pentesting
   * [pywerview](https://github.com/the-useless-one/pywerview)
   * [responder](https://github.com/lgandx/Responder)
   * [impacket](https://github.com/CoreSecurity/impacket)
+
+#### Credentials
+  * root:vagrant
+  * vagrant:vagrant
