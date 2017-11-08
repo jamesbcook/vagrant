@@ -1,6 +1,3 @@
-Vagrant files for pentesting
-
-
 ## Tools Installed by puppet
 
 #### Kali-Wireless
